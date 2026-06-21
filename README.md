@@ -151,15 +151,15 @@ Created interactive Power BI dashboards for:
 
 ### Query Execution Examples
 
-![SQL Query 1](screenshots/Best%20stock.png)
+![SQL Query 1](..SQL%20queries/Best%20stock.png)
 
-![SQL Query 2](screenshots/return_volatility.png)
+![SQL Query 2](..SQL%20queries/return_volatility.png)
 
-![SQL Query 3](screenshots/Risky_stock.png)
+![SQL Query 3](..SQL%20queries/Risky_stock.png)
 
-![SQL Query 4](screenshots/Stock_rank.png)
+![SQL Query 4](..SQL%20queries/Stock_rank.png)
 
-![SQL Query 5](screenshots/attractive_stock.png)
+![SQL Query 5](..SQL%20queries/attractive_stock.png)
 
 ---
 
