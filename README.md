@@ -151,15 +151,20 @@ Created interactive Power BI dashboards for:
 
 ### Query Execution Examples
 
-![SQL Query 1](..SQL%20queries/Best%20stock.png)
+## 1. Best Performing Stock Analysis
+![Best Stock](screenshots/SQL%20queries/Best%20stock.png)
 
-![SQL Query 2](..SQL%20queries/return_volatility.png)
+## 2. Most Risky Stock Analysis
+![Risky Stock](screenshots/SQL%20queries/Risky_stock.png)
 
-![SQL Query 3](..SQL%20queries/Risky_stock.png)
+## 3. Stock Ranking using Window Functions
+![Stock Rank](screenshots/SQL%20queries/Stock_rank.png)
 
-![SQL Query 4](..SQL%20queries/Stock_rank.png)
+## 4. Most Attractive Investment Opportunity
+![Attractive Stock](screenshots/SQL%20queries/attractive_stock.png)
 
-![SQL Query 5](..SQL%20queries/attractive_stock.png)
+## 5. Return vs Volatility Analysis
+![Return Volatility](screenshots/SQL%20queries/return_volatility.png)
 
 ---
 
@@ -177,7 +182,7 @@ Features:
 * Top Performing Stocks
 * Long-Term Wealth Creation Analysis
 
-![Executive Summary Dashboard](screenshots/01_executive_summary.png)
+![Executive Summary](screenshots/dashboards/01_executive_summary.png)
 
 ---
 
@@ -190,7 +195,7 @@ Features:
 * Risk vs Return Analysis
 * Highest & Lowest Volatility Metrics
 
-![Risk Analysis Dashboard](screenshots/02_risk_analysis.png)
+![Risk Analysis](screenshots/dashboards/02_risk_analysis.png)
 
 ---
 
@@ -203,7 +208,7 @@ Features:
 * Correlation Heatmap
 * Investment Insights
 
-![Trend Analysis Dashboard](screenshots/03_trend_analysis.png)
+![Trend Analysis](screenshots/dashboards/03_trend_analysis.png)
 
 ---
 
